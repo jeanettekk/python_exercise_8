@@ -1,0 +1,5 @@
+/.idea
+/.venv
+# Ignore these folders when staging
+.DS_store
+# Ignore this file when staging
