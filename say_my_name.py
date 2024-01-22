@@ -9,5 +9,5 @@ last_name = 'Kho'
 
 print(first_name, middle_name, last_name)
 # Concatenating the strings in the variables, first_name, middle_name and last_name
-# And then, printing those stringss
+# And then, printing those strings
 
